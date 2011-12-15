@@ -10,6 +10,7 @@
     using :class:`UnixSocketConnection` is preferable.
 
     :copyright: (c) 2011 by Selectel, see AUTHORS for more details.
+    :license: LGPL, see LICENSE for more details.
 """
 
 from __future__ import absolute_import, unicode_literals
